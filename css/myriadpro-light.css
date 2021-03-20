@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'MyriadPro-Light';
+	src: url('../fonts/myriadpro-light.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/myriadpro-light.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/myriadpro-light.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/myriadpro-light.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/myriadpro-light.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/myriadpro-light.svg#myriadpro-light') format('svg'); /* Chrome < 4, Legacy iOS */
+}
